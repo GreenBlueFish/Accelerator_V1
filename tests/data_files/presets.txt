@@ -1,0 +1,6 @@
+preset,value
+neg_x_threshold,0x7FF0
+x_reset,0x000F
+a_neg,0x7FFF
+a_pos,0x0001
+dr,0x3FFF

@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1782495982" />
+    <testcase name="global_program_run" classname="tests.test_accelerator" file="/home/rowanleonard/dev/ASIC/Neuromorphic/Accelerator_V1/tests/test_accelerator.py" lineno="766" time="0.14379525184631348" sim_time_ns="128100.0" ratio_time="890849.999253881" />
+  </testsuite>
+</testsuites>

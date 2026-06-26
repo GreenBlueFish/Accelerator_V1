@@ -1,0 +1,8 @@
+# each row is a layer in the network with the first 
+# layer being the input neurons and the last layer
+# being that output neurons
+0x0000,0x0F00,0x00F0,0x000F
+# excitatory
+0x0FFF,0x6
+# inhibitory
+0x7,0x8

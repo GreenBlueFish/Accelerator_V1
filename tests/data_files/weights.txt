@@ -1,0 +1,10 @@
+# each row are the weights from one layer to the neg_x_threshold
+# weights are organized such that the first weight goes in the 
+#   first bram block while the second weight goes to the second
+#   bram block, and so on for all n blocks
+# I/O -> E
+0x0000,0x5,0x2,0x6,0x3,0x7,0x4,0x8
+# E -> I
+0x9,0xA
+# I -> E
+0xB,0xC
